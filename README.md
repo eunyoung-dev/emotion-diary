@@ -25,6 +25,7 @@ https://emotion-diary-rho-three.vercel.app/
 
 ## 프로젝트 구조 📁
 src/
+
 ├── components/ # 재사용 가능한 컴포넌트
 
 ├── pages/ # 페이지 컴포넌트
